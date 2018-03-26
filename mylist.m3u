@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UTo03hLe8fc/U_n27Q7POII/AAAAAAAABSc/wFvyRlRLzVU/s1600/el-correo-de-andaluc%C3%ADa-tv-logo.png" group-title="CorreoTV"
-http://luztv.cdnstreamserver.com/luztv/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
@@ -1691,6 +1688,9 @@ http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-UTo03hLe8fc/U_n27Q7POII/AAAAAAAABSc/wFvyRlRLzVU/s1600/el-correo-de-andaluc%C3%ADa-tv-logo.png" group-title="SPAIN",CorreoTV
+http://luztv.cdnstreamserver.com/luztv/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
